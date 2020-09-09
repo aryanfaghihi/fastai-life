@@ -1,0 +1,31 @@
+site_name: fastai life
+nav:
+  - Home: index.md
+  - Competitions:
+      - Titanic: titanic.md
+
+theme: 
+  name: material
+  font:
+    text: Open Sans
+  palette:
+    scheme: slate
+    primary: cyan
+    accent: cyan
+  features:
+    - tabs
+  icon:
+    repo: fontawesome/brands/github
+
+google_analytics:
+  - UA-177556897-1
+  - auto
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/aryanfaghihi/fastai-life
+
+repo_url: https://github.com/aryanfaghihi/fastai-life
+repo_name: fastai-life
+
